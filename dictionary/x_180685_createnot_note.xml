@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Note" max_length="40" name="x_180685_createnot_note" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Note" max_length="1000" name="u_note" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="80" name="u_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User" max_length="50" name="u_user" type="string"/>
+    </element>
+</database>

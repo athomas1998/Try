@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="18c4bfbadb8303000256f91ebf9619bf" sys_domain="global" table="x_180685_createnot_note" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-19 12:17:32</sys_created_on>
+            <sys_id>ef557bfadb8303000256f91ebf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_180685_createnot_note" sys_domain="global" view="Default view">18c4bfbadb8303000256f91ebf9619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-19 12:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-19 12:17:32</sys_created_on>
+            <sys_id>63557bfadb8303000256f91ebf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_180685_createnot_note" sys_domain="global" view="Default view">18c4bfbadb8303000256f91ebf9619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-19 12:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_title</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-19 12:17:32</sys_created_on>
+            <sys_id>e3557bfadb8303000256f91ebf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_180685_createnot_note" sys_domain="global" view="Default view">18c4bfbadb8303000256f91ebf9619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-19 12:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_note</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-19 12:17:32</sys_created_on>
+            <sys_id>67557bfadb8303000256f91ebf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_180685_createnot_note" sys_domain="global" view="Default view">18c4bfbadb8303000256f91ebf9619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-19 12:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_180685_createnot_note</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-19 12:14:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18c4bfbadb8303000256f91ebf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_180685_createnot_note</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CreateNotes" source="x_180685_createnot">e854b3badb8303000256f91ebf96190a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CreateNotes">e854b3badb8303000256f91ebf96190a</sys_scope>
+            <sys_update_name>sys_ui_section_18c4bfbadb8303000256f91ebf9619bf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-19 12:14:51</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
